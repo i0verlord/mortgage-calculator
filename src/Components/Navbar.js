@@ -8,7 +8,7 @@ const Navbar = () => {
     <AppBar position="static">
       <Container maxWidth="xl">
         <Toolbar>
-          <Typography variant="h5">Bank of React</Typography>
+          <Typography variant="h5">Lord's Bank of Testing</Typography>
         </Toolbar>
       </Container>
     </AppBar>
